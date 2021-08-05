@@ -24,15 +24,15 @@ Music Assistant - @camilaowner
             [
                 [
                     InlineKeyboardButton(
-                      "✨CamilaAssistant", url="https://t.me/camilaowner",
+                      "✨CamilaAssistant", url="https://t.me/ramyavc",
                     )
                 ],
                 [
                     InlineKeyboardButton(
-                        "💬 Help Group", url="https://t.me/camila_support"
+                        "Chatting Group🥰", url="https://t.me/tamil_english_chatting"
                     ),
                     InlineKeyboardButton(
-                        "stickers💖", url="https://t.me/stickersbag"
+                        "Creator 🥳", url="https://t.me/gppravingp"
                     ),
                     InlineKeyboardButton(
                         "✨GitHub✨", url="http://www.github.com/War-Legend/camilavcbot"
@@ -40,7 +40,7 @@ Music Assistant - @camilaowner
                 ],
                 [
                     InlineKeyboardButton(
-                        "➕ Add To Your Group ➕", url="https://t.me/camillaMusicbot?startgroup=true"
+                        "➕ Add To Your Group ➕", url="https://t.me/ramyaprobot?startgroup=true"
                     ) 
                 ]
             ]
